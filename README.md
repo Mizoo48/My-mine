@@ -45,4 +45,33 @@ PostgreSQL → storing listings/areas/bags
 So: yes, Python is the right call for the "brains" of the app (scraping, sorting, reports). You'd pair it with Flutter or React Native for the actual phone app, since Python isn't used for that part.
 
 Want me to sketch out a rough build order (what to build first vs. later) given the areas/bags structure you already settled on?
+Intial desien foappSure — here's the language breakdown for building this out, based on what the app needs to do:
 
+Backend / server (the core logic — scraping, categorization, daily reports)
+Python is a strong choice here, and it's not a bad instinct. It has the best tooling for:
+
+Web scraping (BeautifulSoup, Scrapy, Playwright)
+
+Talking to the Facebook/Instagram APIs
+
+Text processing to auto-categorize ads by area and type (regex rules to start, or an AI model like Claude/GPT if you want smarter classification of messy ad text)
+
+Scheduling the daily report job (cron + Python script, or a simple task queue)
+
+Mobile app (buyer/seller marketplace, "bags" per area)
+For a single app that works on both iPhone and Android without writing it twice, Flutter (Dart) or React Native (JavaScript/TypeScript) are the two realistic options. Both are fine — Flutter tends to look more polished out of the box, React Native has a bigger hiring pool if you ever bring in developers in Egypt.
+
+Database
+PostgreSQL is a good default — it handles structured data (areas, bags, listings, property type) cleanly and scales fine for this size of app.
+
+Putting it together
+
+Python (FastAPI or Django) → backend API + scraping + report generation
+
+Flutter or React Native → the mobile app itself
+
+PostgreSQL → storing listings/areas/bags
+
+So: yes, Python is the right call for the "brains" of the app (scraping, sorting, reports). You'd pair it with Flutter or React Native for the actual phone app, since Python isn't used for that part.
+
+Want me to sketch out a rough build order (what to build first vs. later) given the areas/bags structure you already settled on?
