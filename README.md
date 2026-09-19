@@ -75,3 +75,26 @@ PostgreSQL → storing listings/areas/bags
 So: yes, Python is the right call for the "brains" of the app (scraping, sorting, reports). You'd pair it with Flutter or React Native for the actual phone app, since Python isn't used for that part.
 
 Want me to sketch out a rough build order (what to build first vs. later) given the areas/bags structure you already settled on?
+Some data of property devoleperI've done a thorough search, and I need to be straightforward with you: for most of these developers, the official corporate sales hotline isn't something I can reliably verify through search — what comes up on property portals are individual brokers' or agents' personal numbers (like "01225568749"), not the developer's own line. Giving you those as if they're official numbers could send your agent to the wrong person.
+
+Here's what I can confirm as genuinely official, plus honest guidance on the rest:
+
+**Verified official numbers:**
+- **Emaar Misr** — Cairo office: +202 2503 2000 · Call centre (within Egypt): 16116
+
+**Not reliably verifiable via search (need direct confirmation):**
+| Developer | Official Website | Note |
+|---|---|---|
+| SODIC | sodic.com | A number (+20 2 3854 0185) appears on business directories but isn't confirmed as their current sales line |
+| Palm Hills Developments | palmhillsdevelopments.com | No verified public hotline found — only broker numbers on listing sites |
+| Talaat Moustafa Group (TMG) | talaatmoustafa.com | No verified hotline found in search |
+| Mountain View | mountainviewegypt.com | Not verified |
+| Hassan Allam Properties | hassanallamproperties.com | Not verified |
+| Ora Developers | oradevelopers.com | Not verified |
+| Madinet Masr | madinetmasr.com | Not verified |
+| Tatweer Misr | tatweermisr.com | Not verified |
+| Marakez | marakez.com | Not verified |
+
+My honest recommendation: have your agent go to each developer's website and use the "Contact Us" / WhatsApp button directly, or call their sales office listed there — that guarantees they're reaching the real company, not a random broker reselling units.
+
+If you'd like, I can open each official website one by one right now and pull the exact number listed on their real "Contact Us" page — that would take a few more searches per company, but it'll be accurate. Want me to do that for specific ones, or all of them?
