@@ -8,6 +8,4 @@ Certificat. Cairo unversity business intrship and devolep https://edu4arab.org/%
 
 Reads property ads and auto-sorts them by area and type (apartments, villas, commercial)
 
-Daily report pulling  s
-I have bulled one that is. Y project
- https://claude.ai/share/3fb48c62-2e80-4d57-8c82-246fe260b451
+
