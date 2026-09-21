@@ -3,11 +3,11 @@ Certificat and projects
 Cloude 101 https://verify.skilljar.com/c/gv2z669xu2vz
 Certificat AI Fluency: Framwork and foundtion https://verify.skilljar.com/c/35qmf54cgq6b
 Certificate. AI fluency AI capabilitis and limetion https://verify.skilljar.com/c/mwrdxxq8sm54
-Certificat. Cairo unversity business intrship and devolep.. Number B4abf869641cd060 https://edu4arab.org/%d8%b4%d9%87%d8%a7%d8%af%d8%a9-tutor?cert_hash=84abf869641cd060P
+Certificat. Cairo unversity business intrship and devolep.. Number B4abf869641cd060 https://edu4arab.org
 My project 
-App concte too social media Property App — Quick Summary 
+App concte too social  — Quick Summary 
 
-Reads property ads and auto-sorts them by area and type (apartments, villas, commercial) 
+Reads property ads and auto-sorts them by area and 
 
 Daily report pulling new/updated listings from the web + your own and other agents' Facebook/Instagram pages 
 
@@ -95,6 +95,4 @@ Here's what I can confirm as genuinely official, plus honest guidance on the res
 | Tatweer Misr | tatweermisr.com | Not verified |
 | Marakez | marakez.com | Not verified |
 
-My honest recommendation: have your agent go to each developer's website and use the "Contact Us" / WhatsApp button directly, or call their sales office listed there — that guarantees they're reaching the real company, not a random broker reselling units.
-
-If you'd like, I can open each official website one by one right now and pull the exact number listed on their real "Contact Us" page — that would take a few more searches per company, but it'll be accurate. Want me to do that for specific ones, or all of them?
+My honest recommendation: have your agent go to each developer's website and use the "Contact Us" / WhatsApp button directly, or call their sales office listed there — that guarantees they're reaching t
