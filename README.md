@@ -49,26 +49,4 @@ Your platform needs:
 * See sales
 * Receive earnings
 
-**Admin — you**
-
-* Approve/reject sellers
-* Approve/reject products
-* Manage categories
-* Handle refunds/disputes
-* Manage commissions
-* Monitor suspicious activity
-* See marketplace statistics
-
-### 3. Decide how you make money
-
-For example:
-
-> Seller sells a $20 product → marketplace keeps 15% → seller receives $17.
-
-You could also eventually have:
-
-* Commission on sales
-* Seller subscription
-* Featured-product fees
-* Advertising/prom
 
