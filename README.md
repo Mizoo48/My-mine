@@ -1,7 +1,7 @@
 # My-mine
 Certificat and projects 
 Cloude 101 https://verify.skilljar.com/c/gv2z669xu2vz
-Certificat AI Fluency: Framwork and foundtion https://verify.skilljar.com/c/35qmf54cgq6b
+Certificat AI Fluency: Framwork and foundtion https://verify.skilljar.com/c/35qmf54cgq6b cretifact dubai. https://omp.dub.ai/certificate/nCZspKZ3f13w
 Certificate. AI fluency AI capabilitis and limetion https://verify.skilljar.com/c/mwrdxxq8sm54
 Certificat. Cairo unversity business intrship and devolep.. Number B4abf869641cd060 https://edu4arab.org
 My project property App no cod 
