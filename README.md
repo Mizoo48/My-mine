@@ -1,5 +1,5 @@
 # My-mine
-Certificat and projects 
+Certificat and projects <a href="https://www.classpedia.ai/certificate/verification/NjY1NA=="><img src="https://classpedia.ai/seal.png" alt="Verified" /></a>
 Cloude 101 https://verify.skilljar.com/c/gv2z669xu2vz
 Certificat AI Fluency: Framwork and foundtion https://verify.skilljar.com/c/35qmf54cgq6b cretifact dubai. https://omp.dub.ai/certificate/nCZspKZ3f13w
 Certificate. AI fluency AI capabilitis and limetion https://verify.skilljar.com/c/mwrdxxq8sm54
