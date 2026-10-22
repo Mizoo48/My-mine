@@ -76,4 +76,98 @@ git branch -M main
 git add .
 git commit -m "Initial commit"
 git remote add origin https://github.com/YOUR_USERNAME/projectflow.git
-git push -u origin main
+git push -u origin Main.. projectflow/
+├── .gitignore
+├── .env.example
+├── middleware.ts
+├── next.config.mjs
+├── package.json
+├── postcss.config.js
+├── tailwind.config.ts
+├── tsconfig.json
+├── next-env.d.ts
+├── README.md
+├── app/
+│   ├── globals.css
+│   ├── layout.tsx
+│   ├── page.tsx
+│   ├── login/
+│   │   └── page.tsx
+│   ├── dashboard/
+│   │   └── page.tsx
+│   ├── profile/
+│   │   └── page.tsx
+│   ├── billing/
+│   │   └── page.tsx
+│   ├── projects/
+│   │   └── [id]/
+│   │       └── page.tsx
+│   └── api/
+│       ├── notifications/
+│       │   ├── route.ts
+│       │   └── [id]/
+│       │       └── read/
+│       │           └── route.ts
+│       ├── projects/
+│       │   ├── route.ts
+│       │   ├── [id]/
+│       │   │   ├── members/
+│       │   │   │   └── route.ts
+│       │   │   ├── shares/
+│       │   │   │   ├── route.ts
+│       │   │   │   └── [shareId]/
+│       │   │   │       └── route.ts
+│       │   │   ├── tasks/
+│       │   │   │   └── route.ts
+│       │   │   ├── insights/
+│       │   │   │   └── route.ts
+│       │   │   ├── report/
+│       │   │   │   └── route.ts
+│       │   │   ├── pdf/
+│       │   │   │   └── route.ts
+│       │   │   └── team/
+│       │   │       └── route.ts
+│       ├── tasks/
+│       │   ├── route.ts
+│       │   ├── reorder/
+│       │   │   └── route.ts
+│       │   ├── [id]/
+│       │   │   ├── route.ts
+│       │   │   ├── comments/
+│       │   │   │   └── route.ts
+│       │   │   └── files/
+│       │   │       └── route.ts
+│       └── stripe/
+│           ├── checkout/
+│           │   └── route.ts
+│           └── webhook/
+│               └── route.ts
+├── components/
+│   ├── auth-form.tsx
+│   ├── dashboard-client.tsx
+│   ├── profile-form.tsx
+│   ├── analytics-panel.tsx
+│   ├── task-chart.tsx
+│   ├── billing-client.tsx
+│   ├── ai-insights-panel.tsx
+│   ├── project-share-panel.tsx
+│   ├── team-roles-panel.tsx
+│   ├── project-detail-client.tsx
+│   └── minimal-shell.tsx
+├── lib/
+│   ├── ai-insights.ts
+│   ├── billing.ts
+│   ├── notifications.ts
+│   ├── profile.ts
+│   ├── project-access.ts
+│   ├── project-data.ts
+│   ├── stripe.ts
+│   ├── supabase/
+│   │   ├── admin.ts
+│   │   ├── client.ts
+│   │   └── server.ts
+│   └── team.ts
+├── sql/
+│   └── schema.sql
+└── types/
+    └── index.ts
