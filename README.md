@@ -78,12 +78,5 @@ git commit -m "Initial commit"
 git remote add origin https://github.com/YOUR_USERNAME/projectflow.git
 git push -u origin Main.. projectflow/
 ├── .gitignore
-├── .env.example
-├── middleware.ts
-├── next.config.mjs
-├── package.json
-├── postcss.config.js
-├── tailwind.config.ts
-├── tsconfig.json
-├── next-env.d.ts
+
 ├── README.md
