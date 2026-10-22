@@ -67,7 +67,7 @@ For more updated   project. No cod my Projct number 2new projecet to stackmkdir 
 cd projectflow
 git init
 git branch -M main
-git remote add origin https://github.com/YOUR_USERNAME/projectflow.git
+git remote add origin https://github.com/ projecetflowE/projectflow.git
 git add .
 git commit -m "Initial commit"
 git push -u origin Main.. cd projectflow
