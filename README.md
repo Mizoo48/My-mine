@@ -51,4 +51,7 @@ STRIPE_SECRET_KEY=sk_test_xxx
 NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY=pk_test_xxx
 STRIPE_WEBHOOK_SECRET=whsec_xxx
 OPENAI_API_KEY=your-open AI-key.. npm install
-npm run dev.. stripe listen --forward-to localhost:3000/api/stripe/webhook.. NEXT_PUBLIC_APP_URL=https://your-vercel-app.vercel.app
+npm run dev.. stripe listen --forward-to localhost:3000/api/stripe/webhook.. NEXT_PUBLIC_APP_URL=https://your-vercel-app.vercel.app.. My-mine/
+├── .gitignore
+├── LICENSE
+└── README.md
