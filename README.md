@@ -54,4 +54,26 @@ OPENAI_API_KEY=your-open AI-key.. npm install
 npm run dev.. stripe listen --forward-to localhost:3000/api/stripe/webhook.. NEXT_PUBLIC_APP_URL=https://your-vercel-app.vercel.app.. My-mine/
 ├── .gitignore
 ├── LICENSE
-└── README.md
+└── README.md.. Redoam text # My-mine
+Certificat and projects <a href="https://www.classpedia.ai/certificate/verification/NjY1NA=="><img src="https://classpedia.ai/seal.png" alt="Verified" /></a>
+Cloude 101 https://verify.skilljar.com/c/gv2z669xu2vz
+Certificat AI Fluency: Framwork and foundtion https://verify.skilljar.com/c/35qmf54cgq6b cretifact dubai. https://omp.dub.ai/certificate/nCZspKZ3f13w
+Certificate. AI fluency AI capabilitis and limetion https://verify.skilljar.com/c/mwrdxxq8sm54.. Classpediahttps://www.classpedia.ai/certificate/verification/NjY2Mw==
+Certificat. Cairo unversity business intrship and devolep.. Number B4abf869641cd060 https://edu4arab.org
+My project property App no cod 
+https://claude.ai/artifact/P2mu19e3RmeWHKxXC4wD2V //// intial  website.. No cod
+https://claude.ai/artifact/1yo4mnsvhCUCWyjUVjXuJ4
+For more updated   project. No cod my Projct number 2new projecet to stackmkdir projectflow
+cd projectflow
+git init
+git branch -M main
+git remote add origin https://github.com/YOUR_USERNAME/projectflow.git
+git add .
+git commit -m "Initial commit"
+git push -u origin Main.. cd projectflow
+git init
+git branch -M main
+git add .
+git commit -m "Initial commit"
+git remote add origin https://github.com/YOUR_USERNAME/projectflow.git
+git push -u origin main
