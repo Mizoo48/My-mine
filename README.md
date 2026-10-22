@@ -87,15 +87,3 @@ git push -u origin Main.. projectflow/
 ├── tsconfig.json
 ├── next-env.d.ts
 ├── README.md
-├── app/
-│   ├── globals.css
-│   ├── layout.tsx
-│   ├── page.tsx
-│   ├── login/
-│   │   └── page.tsx
-│   ├── dashboard/
-│   │   └── page.tsx
-│   ├── profile/
-│   │   └── page.tsx
-│   ├── billing/
-│   │   └─
