@@ -101,4 +101,7 @@ git branch -M main
 git add .
 git commit -m "Initial commit"
 git remote add origin https://github.com/YOUR_USERNAME/projectflow.git
-git 
+git... git checkout -b feature/my-feature
+git add .
+git commit -m "Add new feature"
+git push origin feature/my-feature
