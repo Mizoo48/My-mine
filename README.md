@@ -104,4 +104,9 @@ git remote add origin https://github.com/YOUR_USERNAME/projectflow.git
 git... git checkout -b feature/my-feature
 git add .
 git commit -m "Add new feature"
-git push origin feature/my-feature
+git push origin feature/my-feature.. git init
+git add .
+git commit -m "Initial ServiceHub monorepo"
+git branch -M main
+git remote add origin https://github.com/YOUR_USERNAME/servicehub.git
+git push -u origin main
