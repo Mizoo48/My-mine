@@ -109,4 +109,24 @@ git add .
 git commit -m "Initial ServiceHub monorepo"
 git branch -M main
 git remote add origin https://github.com/YOUR_USERNAME/servicehub.git
-git push -u origin main
+git push -u origin Main. # Manifesto
+
+Manifesto is a full-stack service marketplace platform built with:
+- Frontend: React + Vite
+- Backend: Node.js + Express + MongoDB
+- Auth: JWT
+- Deployment:
+  - Frontend: Vercel
+  - Backend: Render
+  - Database: MongoDB Atlas
+
+## Project Structure
+
+```bash
+manifesto/
+├── frontend/
+├── backend/
+├── .github/
+├── package.json
+├── README.md
+└── .gitignore
