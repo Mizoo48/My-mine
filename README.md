@@ -134,3 +134,8 @@ manifesto/
 - an English technical README
 - a GitHub-ready README with badges and screenshots
 - a README tailored specifically for React or Node.js version of the same project
+.... إذا رغبت، أستطيع أن أكتب لك أيضًا:
+- README أكثر احترافية باللغة الإنجليزية
+- README خاص بمشروع React
+- README عربي كامل مع صور وأزرار GitHub
+- README للـ HSE Smart AI أو أي مشروع آخر
